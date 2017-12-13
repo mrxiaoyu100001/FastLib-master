@@ -134,6 +134,8 @@ dependencies {
 
 ## 鸣谢
 
+*［Aries Hoo］（https://github.com/AriesHoo?tab=overview&from=2017-10-01&to=2017-10-31）
+
 * [ButterKnife-注解](https://github.com/JakeWharton/butterknife)
 * [Retrofit2.X-网络请求](https://github.com/square/retrofit)
 * [RxJava2.X-响应式编程](https://github.com/ReactiveX/RxJava)
